@@ -1,1 +1,2 @@
 E:\WorkSpace\Git\Game\Dream's Begin Servers\DreamBeginServer\bin\Debug\DreamBeginServer.exe.config
+D:\Dream's Binge\Git\Game\Dream's Begin Servers\DreamBeginServer\bin\Debug\DreamBeginServer.exe.config
